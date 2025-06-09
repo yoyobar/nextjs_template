@@ -27,6 +27,14 @@ export default function Home() {
             기본적인 날짜, 시간 관련 유틸리티 함수가 적용되어 있습니다.
             <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold">lib/utils.ts</code>
           </li>
+          <li>
+            <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold">
+              Custom Pagination
+            </code>
+            컴포넌트,{' '}
+            <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold">theme-toggle</code>{' '}
+            컴포넌트를 커스텀하여 사용하세요.
+          </li>
         </ol>
         <div className="w-full max-w-2xl">
           <h2 className="text-lg font-semibold mb-4 text-center bg-stone-50 dark:bg-stone-900 py-2 rounded-md">
